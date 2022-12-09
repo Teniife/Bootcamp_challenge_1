@@ -10,8 +10,8 @@ This weekly challenge was to make this website meet accessibility standards and 
 
 
 ## Installation
-
-
+Downloaded source code from bootcamp website and cleaned up CSS file
+[Deployed Link](https://teniife.github.io/Bootcamp_challenge_1/)
 
 ## Usage
 
@@ -20,7 +20,7 @@ Finished product of website.
 
 ## Credits
 
-N/A
+Project completed by Teni Keshinro (teni0518@gmail.com)
 
 
 ## License
@@ -29,4 +29,4 @@ N/A
 
 
 
-[Deployed Link](https://teniife.github.io/Bootcamp_challenge_1/)
+
